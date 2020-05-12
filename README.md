@@ -49,10 +49,10 @@ Uma vez inicializado, o sistema funciona da seguinte forma:
 - Aprendizado prático em desenvolvimento Web e Mobile com a stack Node Js, React Js, React Native com Expo, apresentada pela equipe **Rocketseat** :rocket:
 - Aprendizado relacionado à boas práticas de programação
 - Aprendizado em bancos de dados e express
-- Aprendizado em métodos HTTP, tipos de parâmetros
+- Aprendizado em métodos HTTP e tipos de parâmetros
 - Construção em conjunto do banco de dados e das funcionalidades de cada entidade envolvida
 - Aprendizado em React como criação de componentes e navegação com React Router
-- Comunicação do backend com o frontend
+- Comunicação do frontend com o backend com axios
 - Aprendizado sobre formas de testar o código desenvolvido e desenvolvimento orientado a testes
 - ...
 
